@@ -211,18 +211,9 @@ console.log("Hourly data received:", hourlyDisplayData);
           <li>PM 2.5 : <a href="https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health#:~:text=Some%20of%20the%20particulate%20matter,burning%20wood%2C%20candles%20or%20incense.">Particulate Matter 2.5</a></li>
           <li>NO<sub>2</sub> : <a href="https://www.airnow.gov/publications/air-quality-index/air-quality-guide-for-no2/">Nitrogen Dioxide</a></li>
           <li>SO<sub>2</sub> : <a href="https://www.epa.gov/so2-pollution/sulfur-dioxide-basics">Sulphur Dioxide</a></li>
-          <li>O<sub>3</sub> : Ozone</li>
-          <li>CO : Carbon Monooxide</li>
+          <li>O<sub>3</sub> : <a href="https://www.breeze-technologies.de/de/blog/ozone-o3/">Ozone</a></li>
+          <li>CO : <a href="https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution">Carbon Monooxide</a></li>
           <li>PM 10 : <a href="https://ww2.arb.ca.gov/resources/inhalable-particulate-matter-and-health#:~:text=Some%20of%20the%20particulate%20matter,burning%20wood%2C%20candles%20or%20incense.">Particulate Matter 10</a></li>
-          {/* <li><ahref="https://cpcb.nic.in/displaypdf.php?id=bmF0aW9uYWwtYWlyLXF1YWxpdHktaW5kZXgvQWJvdXRfQVFJLnBkZg==">Summary</a></li> */}
-          {/* <li>Common sources of CO and SO₂</li>
-          <li>How weather affects pollution levels</li>
-          <li>Importance of tree plantation for cleaner air</li>
-          <li>Best air purifying plants for homes</li>
-          <li>Global AQI ranking and monitoring</li>
-          <li>Safe AQI levels for outdoor activities</li>
-          <li>Apps to track live AQI data</li>
-          <li>Understanding the color codes in AQI charts</li> */}
         </ul>
 
         <p className="text-sm mt-8 text-[#005F73]">
